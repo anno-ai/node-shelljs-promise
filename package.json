@@ -11,5 +11,13 @@
     "shelljs": "^0.8.3"
   },
   "devDependencies": {},
-  "description": ""
+  "description": "",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/anno-ai/shelljs-promise.git"
+  },
+  "bugs": {
+    "url": "https://github.com/anno-ai/shelljs-promise/issues"
+  },
+  "homepage": "https://github.com/anno-ai/shelljs-promise#readme"
 }
