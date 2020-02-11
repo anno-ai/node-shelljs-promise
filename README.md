@@ -1,5 +1,9 @@
 # shelljs-promise
 
+A high-level function for shelljs using promises. Optional support for escaping shell commands.
+
+
+
 Unescaped shell command
 
 ```js
